@@ -4,7 +4,7 @@ public class lol {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("ciao_test");
+		System.out.println("ciao_3");
 	}
 
 }
